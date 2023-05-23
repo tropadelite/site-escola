@@ -1,4 +1,24 @@
-header {
+*{
+   margin: 0 ;
+   padding: 0 ;
+
+}
+
+.cabecalho {
     background-color: hsl(216, 36%, 15%);
     color: white ;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px ;
+
 }
