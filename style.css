@@ -19,6 +19,12 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px ;
-
+    font-size: 24px ;}
+    
+    .escola-imagem{
+        width: 25%
+    }
+    
+    .escola {
+    background-image: linear-gradient(#0F1A2D,#192436)
 }
